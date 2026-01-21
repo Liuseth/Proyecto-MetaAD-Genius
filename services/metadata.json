@@ -1,0 +1,8 @@
+{
+  "name": "MetaAdGen Microservice",
+  "description": "An AI-powered microservice for generating high-converting Meta Ads (banners, videos, copies) and segmentation strategies based on client URLs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
